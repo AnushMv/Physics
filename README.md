@@ -1,2 +1,2 @@
 # Physics
-This repository contains some calculations for physics
+This repository contains some calculations for physics.
